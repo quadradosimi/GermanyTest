@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WorkerService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F0CC4-ED2F-4B27-B040-A51EA2F5CED1}|ApiHangFire.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\workerservice\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7F0CC4-ED2F-4B27-B040-A51EA2F5CED1}|ApiHangFire.csproj|solutionrelative:controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F0CC4-ED2F-4B27-B040-A51EA2F5CED1}|ApiHangFire.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\workerservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A7F0CC4-ED2F-4B27-B040-A51EA2F5CED1}|ApiHangFire.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F0CC4-ED2F-4B27-B040-A51EA2F5CED1}|ApiHangFire.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\workerservice\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7F0CC4-ED2F-4B27-B040-A51EA2F5CED1}|ApiHangFire.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F0CC4-ED2F-4B27-B040-A51EA2F5CED1}|ApiHangFire.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\workerservice\\models\\externaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7F0CC4-ED2F-4B27-B040-A51EA2F5CED1}|ApiHangFire.csproj|solutionrelative:models\\externaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F0CC4-ED2F-4B27-B040-A51EA2F5CED1}|ApiHangFire.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\workerservice\\models\\finaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7F0CC4-ED2F-4B27-B040-A51EA2F5CED1}|ApiHangFire.csproj|solutionrelative:models\\finaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F0CC4-ED2F-4B27-B040-A51EA2F5CED1}|ApiHangFire.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\workerservice\\models\\wikipedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7F0CC4-ED2F-4B27-B040-A51EA2F5CED1}|ApiHangFire.csproj|solutionrelative:models\\wikipedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F0CC4-ED2F-4B27-B040-A51EA2F5CED1}|ApiHangFire.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\workerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7F0CC4-ED2F-4B27-B040-A51EA2F5CED1}|ApiHangFire.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E2604F-6004-4DAF-9A63-DA348C487523}|..\\Jobs\\Jobs.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\jobs\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F0CC4-ED2F-4B27-B040-A51EA2F5CED1}|ApiHangFire.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\workerservice\\apihangfire.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A7F0CC4-ED2F-4B27-B040-A51EA2F5CED1}|ApiHangFire.csproj|solutionrelative:apihangfire.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WorkerService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WorkerService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T17:44:57.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\Jobs\\Job.cs",
+              "RelativeDocumentMoniker": "..\\Jobs\\Job.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\Jobs\\Job.cs",
+              "RelativeToolTip": "..\\Jobs\\Job.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:16:04.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiHangFire.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WorkerService\\ApiHangFire.csproj",
+              "RelativeDocumentMoniker": "ApiHangFire.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WorkerService\\ApiHangFire.csproj",
+              "RelativeToolTip": "ApiHangFire.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T16:44:55.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Wikipedia.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WorkerService\\Models\\Wikipedia.cs",
+              "RelativeDocumentMoniker": "Models\\Wikipedia.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WorkerService\\Models\\Wikipedia.cs",
+              "RelativeToolTip": "Models\\Wikipedia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:03:20.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExternalData.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WorkerService\\Models\\ExternalData.cs",
+              "RelativeDocumentMoniker": "Models\\ExternalData.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WorkerService\\Models\\ExternalData.cs",
+              "RelativeToolTip": "Models\\ExternalData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:03:17.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WorkerService\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Event.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WorkerService\\Models\\Event.cs",
+              "RelativeToolTip": "Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:03:15.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FinalData.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WorkerService\\Models\\FinalData.cs",
+              "RelativeDocumentMoniker": "Models\\FinalData.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WorkerService\\Models\\FinalData.cs",
+              "RelativeToolTip": "Models\\FinalData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:00:25.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WorkerService\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DataController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WorkerService\\Controllers\\DataController.cs",
+              "RelativeToolTip": "Controllers\\DataController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAWwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:53:08.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WorkerService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WorkerService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T18:45:04.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Microsoft.NET.Sdk.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "ViewState": "AgIAADIBAAAAAAAAAAAWwEIBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-03T18:37:52.477Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

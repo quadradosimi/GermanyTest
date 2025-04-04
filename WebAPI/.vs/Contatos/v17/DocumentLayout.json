@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E43C0C1B-2A49-4645-977C-34FD2A3220B7}|src\\Contatos.Web\\Data.Web.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\webapi\\src\\contatos.web\\data.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E43C0C1B-2A49-4645-977C-34FD2A3220B7}|src\\Contatos.Web\\Data.Web.csproj|solutionrelative:src\\contatos.web\\data.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F04C9E-FF2C-48C9-81B1-8A7A715E6D97}|src\\Contatos.Infra\\Data.Infra.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\webapi\\src\\contatos.infra\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F04C9E-FF2C-48C9-81B1-8A7A715E6D97}|src\\Contatos.Infra\\Data.Infra.csproj|solutionrelative:src\\contatos.infra\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43C0C1B-2A49-4645-977C-34FD2A3220B7}|src\\Contatos.Web\\Data.Web.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\webapi\\src\\contatos.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E43C0C1B-2A49-4645-977C-34FD2A3220B7}|src\\Contatos.Web\\Data.Web.csproj|solutionrelative:src\\contatos.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43C0C1B-2A49-4645-977C-34FD2A3220B7}|src\\Contatos.Web\\Data.Web.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\webapi\\src\\contatos.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E43C0C1B-2A49-4645-977C-34FD2A3220B7}|src\\Contatos.Web\\Data.Web.csproj|solutionrelative:src\\contatos.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43C0C1B-2A49-4645-977C-34FD2A3220B7}|src\\Contatos.Web\\Data.Web.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\webapi\\src\\contatos.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E43C0C1B-2A49-4645-977C-34FD2A3220B7}|src\\Contatos.Web\\Data.Web.csproj|solutionrelative:src\\contatos.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43C0C1B-2A49-4645-977C-34FD2A3220B7}|src\\Contatos.Web\\Data.Web.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\webapi\\src\\contatos.web\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E43C0C1B-2A49-4645-977C-34FD2A3220B7}|src\\Contatos.Web\\Data.Web.csproj|solutionrelative:src\\contatos.web\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43C0C1B-2A49-4645-977C-34FD2A3220B7}|src\\Contatos.Web\\Data.Web.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\webapi\\src\\contatos.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E43C0C1B-2A49-4645-977C-34FD2A3220B7}|src\\Contatos.Web\\Data.Web.csproj|solutionrelative:src\\contatos.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F04C9E-FF2C-48C9-81B1-8A7A715E6D97}|src\\Contatos.Infra\\Data.Infra.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\webapi\\src\\contatos.infra\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F04C9E-FF2C-48C9-81B1-8A7A715E6D97}|src\\Contatos.Infra\\Data.Infra.csproj|solutionrelative:src\\contatos.infra\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F04C9E-FF2C-48C9-81B1-8A7A715E6D97}|src\\Contatos.Infra\\Data.Infra.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\webapi\\src\\contatos.infra\\data.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1F04C9E-FF2C-48C9-81B1-8A7A715E6D97}|src\\Contatos.Infra\\Data.Infra.csproj|solutionrelative:src\\contatos.infra\\data.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE347C-1E10-4ED1-A6DC-22D84BBEEBF3}|src\\Contatos.Domain\\Data.Domain.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\webapi\\src\\contatos.domain\\models\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE347C-1E10-4ED1-A6DC-22D84BBEEBF3}|src\\Contatos.Domain\\Data.Domain.csproj|solutionrelative:src\\contatos.domain\\models\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5CB63D-E53C-4011-9869-1D115334B3E1}|src\\Contatos.Application\\Data.Application.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\webapi\\src\\contatos.application\\data.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD5CB63D-E53C-4011-9869-1D115334B3E1}|src\\Contatos.Application\\Data.Application.csproj|solutionrelative:src\\contatos.application\\data.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE347C-1E10-4ED1-A6DC-22D84BBEEBF3}|src\\Contatos.Domain\\Data.Domain.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\webapi\\src\\contatos.domain\\models\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE347C-1E10-4ED1-A6DC-22D84BBEEBF3}|src\\Contatos.Domain\\Data.Domain.csproj|solutionrelative:src\\contatos.domain\\models\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5CB63D-E53C-4011-9869-1D115334B3E1}|src\\Contatos.Application\\Contatos.Application.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\webapi\\src\\contatos.application\\di\\initializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5CB63D-E53C-4011-9869-1D115334B3E1}|src\\Contatos.Application\\Contatos.Application.csproj|solutionrelative:src\\contatos.application\\di\\initializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F04C9E-FF2C-48C9-81B1-8A7A715E6D97}|src\\Contatos.Infra\\Data.Infra.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\webapi\\src\\contatos.infra\\repositories\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F04C9E-FF2C-48C9-81B1-8A7A715E6D97}|src\\Contatos.Infra\\Data.Infra.csproj|solutionrelative:src\\contatos.infra\\repositories\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE347C-1E10-4ED1-A6DC-22D84BBEEBF3}|src\\Contatos.Domain\\Data.Domain.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\webapi\\src\\contatos.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE347C-1E10-4ED1-A6DC-22D84BBEEBF3}|src\\Contatos.Domain\\Data.Domain.csproj|solutionrelative:src\\contatos.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE347C-1E10-4ED1-A6DC-22D84BBEEBF3}|src\\Contatos.Domain\\Data.Domain.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\webapi\\src\\contatos.domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE347C-1E10-4ED1-A6DC-22D84BBEEBF3}|src\\Contatos.Domain\\Data.Domain.csproj|solutionrelative:src\\contatos.domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43C0C1B-2A49-4645-977C-34FD2A3220B7}|src\\Contatos.Web\\Data.Web.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\webapi\\src\\contatos.web\\dtos\\datadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E43C0C1B-2A49-4645-977C-34FD2A3220B7}|src\\Contatos.Web\\Data.Web.csproj|solutionrelative:src\\contatos.web\\dtos\\datadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F04C9E-FF2C-48C9-81B1-8A7A715E6D97}|src\\Contatos.Infra\\Data.Infra.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\webapi\\src\\contatos.infra\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F04C9E-FF2C-48C9-81B1-8A7A715E6D97}|src\\Contatos.Infra\\Data.Infra.csproj|solutionrelative:src\\contatos.infra\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE347C-1E10-4ED1-A6DC-22D84BBEEBF3}|src\\Contatos.Domain\\Data.Domain.csproj|c:\\users\\lenovo\\documents\\testealemanha\\testealemanha\\mouts\\webapi\\src\\contatos.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE347C-1E10-4ED1-A6DC-22D84BBEEBF3}|src\\Contatos.Domain\\Data.Domain.csproj|solutionrelative:src\\contatos.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\Contatos.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\Contatos.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T13:26:51.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Web\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Contatos.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Web\\Program.cs",
+              "RelativeToolTip": "src\\Contatos.Web\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:26:40.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Data.Web",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Web\\Data.Web.csproj",
+              "RelativeDocumentMoniker": "src\\Contatos.Web\\Data.Web.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Web\\Data.Web.csproj",
+              "RelativeToolTip": "src\\Contatos.Web\\Data.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T13:26:18.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Contatos.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Web\\appsettings.json",
+              "RelativeToolTip": "src\\Contatos.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T13:22:34.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Data.Infra",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Infra\\Data.Infra.csproj",
+              "RelativeDocumentMoniker": "src\\Contatos.Infra\\Data.Infra.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Infra\\Data.Infra.csproj",
+              "RelativeToolTip": "src\\Contatos.Infra\\Data.Infra.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T13:20:38.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Data.Application",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Application\\Data.Application.csproj",
+              "RelativeDocumentMoniker": "src\\Contatos.Application\\Data.Application.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Application\\Data.Application.csproj",
+              "RelativeToolTip": "src\\Contatos.Application\\Data.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T13:18:59.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Web\\Startup.cs",
+              "RelativeDocumentMoniker": "src\\Contatos.Web\\Startup.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Web\\Startup.cs",
+              "RelativeToolTip": "src\\Contatos.Web\\Startup.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAArwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:06:50.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Web\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "src\\Contatos.Web\\Controllers\\DataController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Web\\Controllers\\DataController.cs",
+              "RelativeToolTip": "src\\Contatos.Web\\Controllers\\DataController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAjwDAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:06:11.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Infra\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\Contatos.Infra\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Infra\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "src\\Contatos.Infra\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:05:43.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Infra\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "src\\Contatos.Infra\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Infra\\Repositories\\Repository.cs",
+              "RelativeToolTip": "src\\Contatos.Infra\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAjwEkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:05:04.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Domain\\Models\\DataService.cs",
+              "RelativeDocumentMoniker": "src\\Contatos.Domain\\Models\\DataService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Domain\\Models\\DataService.cs",
+              "RelativeToolTip": "src\\Contatos.Domain\\Models\\DataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAWwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:03:55.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Domain\\Models\\DataModel.cs",
+              "RelativeDocumentMoniker": "src\\Contatos.Domain\\Models\\DataModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Domain\\Models\\DataModel.cs",
+              "RelativeToolTip": "src\\Contatos.Domain\\Models\\DataModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:03:16.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Domain\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\Contatos.Domain\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Domain\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "src\\Contatos.Domain\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:03:09.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Web\\DTOs\\DataDTO.cs",
+              "RelativeDocumentMoniker": "src\\Contatos.Web\\DTOs\\DataDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Web\\DTOs\\DataDTO.cs",
+              "RelativeToolTip": "src\\Contatos.Web\\DTOs\\DataDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:00:52.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Infra\\Repositories\\DataRepository.cs",
+              "RelativeDocumentMoniker": "src\\Contatos.Infra\\Repositories\\DataRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Infra\\Repositories\\DataRepository.cs",
+              "RelativeToolTip": "src\\Contatos.Infra\\Repositories\\DataRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:00:13.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Infra\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Contatos.Infra\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Infra\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "src\\Contatos.Infra\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:59:06.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\Contatos.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "src\\Contatos.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:58:55.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "src\\Contatos.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "src\\Contatos.Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:58:25.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Initializer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Application\\DI\\Initializer.cs",
+              "RelativeDocumentMoniker": "src\\Contatos.Application\\DI\\Initializer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Contatos.Application\\DI\\Initializer.cs",
+              "RelativeToolTip": "src\\Contatos.Application\\DI\\Initializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:55:20.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
