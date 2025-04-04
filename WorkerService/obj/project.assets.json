@@ -998,11 +998,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WorkerService\\ApiHangFire.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\GitHubTest\\GermanyTest\\WorkerService\\ApiHangFire.csproj",
       "projectName": "ApiHangFire",
-      "projectPath": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WorkerService\\ApiHangFire.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\GitHubTest\\GermanyTest\\WorkerService\\ApiHangFire.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WorkerService\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\GitHubTest\\GermanyTest\\WorkerService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

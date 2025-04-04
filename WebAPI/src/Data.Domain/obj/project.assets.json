@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Data.Domain\\Data.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\GitHubTest\\GermanyTest\\WebAPI\\src\\Data.Domain\\Data.Domain.csproj",
       "projectName": "Data.Domain",
-      "projectPath": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Data.Domain\\Data.Domain.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\GitHubTest\\GermanyTest\\WebAPI\\src\\Data.Domain\\Data.Domain.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\WebAPI\\src\\Data.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Documents\\TesteAlemanha\\TesteAlemanha\\Mouts\\GitHubTest\\GermanyTest\\WebAPI\\src\\Data.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
