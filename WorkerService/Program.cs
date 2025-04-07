@@ -4,7 +4,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services
 // Hangfire
-builder.Services.AddHangfire(x => x.UseSqlServerStorage(@"Server=localhost\SQLEXPRESS;Initial Catalog=HangfireDB;Integrated Security=True;Pooling=False"));
+builder.Services.AddHangfire(x => x.UseSqlServerStorage(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddHangfireServer();
 
 builder.Services.AddControllers();
